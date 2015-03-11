@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textSize="35sp"
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></TableRow>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2"
+        android:text="Manager" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sound"
+        android:id="@+id/button"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Language"
+        android:id="@+id/button2"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Password"
+        android:id="@+id/button3"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="Drivers" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Driver"
+
+        android:id="@+id/adddriverBtn"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Driver"
+        android:id="@+id/deletedriverBtn"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Modify Driver"
+        android:id="@+id/modifydriverBtn"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText3"
+        android:text="Application" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Application"
+        android:id="@+id/button4"
+        android:layout_weight="0.03"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
