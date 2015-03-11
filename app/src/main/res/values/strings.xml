@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">easyDrive</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Log Out</string>
+    <string name="showname">easyDrive</string>
+    <string name="title_activity_homepage">Manager</string>
+
+    <string name="title_manager_section1">Home</string>
+    <string name="title_manager_section2">Messages</string>
+    <string name="title_manager_section3">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_manager_home_page">Manager</string>
+    <string name="title_activity_user_home_page">Driver</string>
+    <string name="title_activity_driver_homepage">"Driver"</string>
+
+    <string name="title_user_section1">Home</string>
+    <string name="title_user_section2">Activities</string>
+    <string name="title_user_section3">Settings</string>
+</resources>
