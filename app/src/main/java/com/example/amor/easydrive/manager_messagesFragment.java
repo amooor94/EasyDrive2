@@ -16,7 +16,7 @@ public class manager_messagesFragment extends Fragment{
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        rootview = inflater.inflate(R.layout.lay_manager_users, container, false);
+        rootview = inflater.inflate(R.layout.lay_manager_messages, container, false);
         return rootview;
     }
 }

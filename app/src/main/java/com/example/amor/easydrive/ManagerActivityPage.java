@@ -56,7 +56,7 @@ public class ManagerActivityPage extends ActionBarActivity
                 fragment = new manager_messagesFragment();
                 break;
             case 2:
-                fragment = new manager_usersFragment();
+                fragment = new manager_settingsFragment();
                 break;
             default:
                 break;
