@@ -10,4 +10,26 @@
         android:text="Driver Activities"
         android:id="@+id/textView5"
         android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="Send Message"
+        android:id="@+id/sendmessage"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="Check Messages"
+        android:id="@+id/checkmessage"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="159dp"
+        android:layout_height="wrap_content"
+        android:text="Report"
+        android:id="@+id/reportbtn"
+        android:layout_gravity="center_horizontal" />
+
 </LinearLayout>

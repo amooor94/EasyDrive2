@@ -22,4 +22,12 @@
     <string name="title_user_section2">Activities</string>
     <string name="title_user_section3">Settings</string>
     <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_check_message">CheckMessage</string>
+    <string name="title_activity_send_message_driver">Send Message</string>
+    <string name="title_activity_inbox">Inbox</string>
+    <string name="title_activity_check_message_manager">Inbox</string>
+    <string name="title_activity_send_message_manager">Send Message</string>
+    <string name="title_activity_report_user">ReportUserActivity</string>
+    <string name="title_activity_inbox_manager">Inbox</string>
+    <string name="title_activity_send_msg_driver">Send Message</string>
 </resources>

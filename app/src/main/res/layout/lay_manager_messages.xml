@@ -9,5 +9,19 @@
         android:text="Messages"
         android:id="@+id/textView2"
         android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Message"
+        android:id="@+id/managersendmess"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Check Messages"
+        android:id="@+id/chcMessagebtn"
+        android:layout_gravity="center_horizontal" />
 
 </LinearLayout>
+
